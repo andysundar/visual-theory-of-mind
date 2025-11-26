@@ -131,7 +131,7 @@ python multi_agent_controller.py
 --- 
 
 ## Demo 
-![Project Demo](https://img.youtube.com/vi/cx7xNcoerO8/0.jpg)](https://youtu.be/cx7xNcoerO8 "Project Demo")
+![Project Demo](https://img.youtube.com/vi/cx7xNcoerO8/0.jpg)](https://youtu.be/cx7xNcoerO8)
 
 ## Contributors 
 - Suvodip Som (M23CSA533)
