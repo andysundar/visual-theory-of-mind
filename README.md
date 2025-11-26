@@ -128,3 +128,12 @@ pip install -e .
 ```bash
 python multi_agent_controller.py
 ``` 
+--- 
+
+## Demo 
+![Demo]((https://youtu.be/cx7xNcoerO8))
+
+## Contributors 
+- Suvodip Som (M23CSA533)
+- Anindya Bandyopadhyay (M23CSA508)
+- Swapnil Adak (M23CSA534)
